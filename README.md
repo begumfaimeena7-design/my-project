@@ -1,3 +1,7 @@
+
+[live-link](https://fruitjuice.bytexl.live/)
+
+
 ## Fresh Juice Website Overview
 
 **Fresh Juice** is a modern and visually appealing website designed to promote and sell fresh fruit juices, smoothies, and healthy beverages online. The website focuses on providing users with an engaging experience while showcasing a variety of nutritious drinks made from fresh, natural ingredients. Inspired by modern juice brands, it emphasizes freshness, health, and convenience. ([Juicely][1])
